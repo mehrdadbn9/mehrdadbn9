@@ -16,7 +16,7 @@
 
 DevOps Engineer with expertise in **bare metal infrastructure** and **on-premise Kubernetes deployments**. I focus on building reliable, scalable systems without relying on managed cloud services.
 
-Currently at **Tapsell** in Tehran, building and maintaining production infrastructure.
+Currently at **Tapsell**, building and maintaining production infrastructure.
 
 ---
 
