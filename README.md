@@ -19,6 +19,13 @@ DevOps Engineer with expertise in **bare metal infrastructure** and **on-premise
 Currently at **Tapsell**, building and maintaining production infrastructure.
 
 ---
+#### 🚀 Notable Open Source Contributions
+*   **[Gin](https://github.com/gin-gonic/gin):** Web framework feature/fix ([PR #4542](https://github.com/gin-gonic/gin/pull/4542))
+*   **[Caddy](https://github.com/caddyserver/caddy):** Extensible web server ([PR #7473](https://github.com/caddyserver/caddy/pull/7473))
+*   **[VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics):** Fast, cost-effective monitoring solution and TSDB ([PR #10493](https://github.com/VictoriaMetrics/VictoriaMetrics/pull/10493))
+*   **[Woodpecker CI](https://github.com/woodpecker-ci/woodpecker):** Simple CI engine with great extensibility ([PR #6066](https://github.com/woodpecker-ci/woodpecker/pull/6066))
+*   **[Kubetail](https://github.com/kubetail-org/kubetail):** Bash script to tail Kubernetes logs ([PR #945](https://github.com/kubetail-org/kubetail/pull/945))
+
 
 ### Technical Skills
 
