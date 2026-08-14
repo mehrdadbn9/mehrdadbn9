@@ -26,17 +26,17 @@ A chronological record of pull requests I have authored and merged into notable 
 
 | Date | Repository (PR) | Stars | CNCF Status | PR Title | What it's used for |
 |------|-----------------|------:|-------------|----------|--------------------|
-| 2023-03-03 | [cortexproject/cortex](https://github.com/cortexproject/cortex/pull/5159) #5159 | 5,848 | Incubating | Update Dockerfile | Scalable, long-term Prometheus metrics storage & querying |
-| 2023-10-16 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy/pull/5193) #5193 | 37,382 | Graduated | docs: Update container_image.md | Security scanner for containers, code & K8s (vulns, misconfig, secrets, SBOM) |
-| 2024-07-23 | [locustio/locust](https://github.com/locustio/locust/pull/2814) #2814 | 28,070 | — | Fix Dockerfile style warning | Load testing of web apps/APIs by simulating user traffic |
-| 2026-02-07 | [kubetail-org/kubetail](https://github.com/kubetail-org/kubetail/pull/945) #945 | 1,755 | Sandbox | Update AGENTS.md and CLAUDE.md | Real-time tailing & aggregation of Kubernetes pod logs |
-| 2026-02-13 | [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker/pull/6066) #6066 | 7,674 | Sandbox | Improve selinux docs | Docker-native CI/CD engine that runs pipelines in containers |
-| 2026-02-13 | [caddyserver/caddy](https://github.com/caddyserver/caddy/pull/7473) #7473 | 74,907 | Graduated | caddyfile: Add renewal_window_ratio global option | Web server & reverse proxy with automatic HTTPS (TLS renewal) |
+| 2026-08-13 | [cilium/cilium](https://github.com/cilium/cilium/pull/47826) #47826 | 24,924 | Graduated | gateway-api: log the right route kind for TLSRoutes | K8s networking, security & observability via eBPF (CNI, service mesh) |
+| 2026-08-06 | [coredns/coredns](https://github.com/coredns/coredns/pull/8316) #8316 | 14,242 | Graduated | image: pin numeric uid/gid for nonroot user | DNS server for service discovery in Kubernetes |
+| 2026-06-08 | [ansible/ansible-lint](https://github.com/ansible/ansible-lint/pull/5060) #5060 | 3,896 | — | fix: ignore skip lookup across rules | Linter that checks Ansible playbooks for bugs & best practices |
 | 2026-04-02 | [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics/pull/10493) #10493 | 17,522 | Graduated | Add split phase metrics for filestream fsync | Fast time-series database for Prometheus metrics & long-term storage |
 | 2026-02-28 | [gin-gonic/gin](https://github.com/gin-gonic/gin/pull/4542) #4542 | 89,115 | — | test(context): use http.StatusContinue constant | HTTP web framework for building Go REST APIs & microservices |
-| 2026-06-08 | [ansible/ansible-lint](https://github.com/ansible/ansible-lint/pull/5060) #5060 | 3,896 | — | fix: ignore skip lookup across rules | Linter that checks Ansible playbooks for bugs & best practices |
-| 2026-08-06 | [coredns/coredns](https://github.com/coredns/coredns/pull/8316) #8316 | 14,242 | Graduated | image: pin numeric uid/gid for nonroot user | DNS server for service discovery in Kubernetes |
-| 2026-08-13 | [cilium/cilium](https://github.com/cilium/cilium/pull/47826) #47826 | 24,924 | Graduated | gateway-api: log the right route kind for TLSRoutes | K8s networking, security & observability via eBPF (CNI, service mesh) |
+| 2026-02-13 | [caddyserver/caddy](https://github.com/caddyserver/caddy/pull/7473) #7473 | 74,907 | Graduated | caddyfile: Add renewal_window_ratio global option | Web server & reverse proxy with automatic HTTPS (TLS renewal) |
+| 2026-02-13 | [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker/pull/6066) #6066 | 7,674 | Sandbox | Improve selinux docs | Docker-native CI/CD engine that runs pipelines in containers |
+| 2026-02-07 | [kubetail-org/kubetail](https://github.com/kubetail-org/kubetail/pull/945) #945 | 1,755 | Sandbox | Update AGENTS.md and CLAUDE.md | Real-time tailing & aggregation of Kubernetes pod logs |
+| 2024-07-23 | [locustio/locust](https://github.com/locustio/locust/pull/2814) #2814 | 28,070 | — | Fix Dockerfile style warning | Load testing of web apps/APIs by simulating user traffic |
+| 2023-10-16 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy/pull/5193) #5193 | 37,382 | Graduated | docs: Update container_image.md | Security scanner for containers, code & K8s (vulns, misconfig, secrets, SBOM) |
+| 2023-03-03 | [cortexproject/cortex](https://github.com/cortexproject/cortex/pull/5159) #5159 | 5,848 | Incubating | Update Dockerfile | Scalable, long-term Prometheus metrics storage & querying |
 
 <sub>Star counts are live as of Aug 2026. CNCF maturity: <b>Graduated</b> / <b>Incubating</b> / <b>Sandbox</b> per the CNCF TOC; "—" denotes a non-CNCF project.</sub>
 
